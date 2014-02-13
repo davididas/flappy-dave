@@ -1,5 +1,7 @@
-HTML5 flappy bird
+FLAPPY DAVE
 
-play here: http://little33.com/flappy/
+html5 flappy bird with art from my son's...art.
+
+forked from: http://little33.com/flappy/
 
 based on http://uralozden.com/flappy/

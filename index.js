@@ -268,7 +268,7 @@ main = function() {
     score = 0;
     credits.renderable = true;
     credits.setText("see console log\nfor github url");
-    scoreText.setText("Flappy Bird");
+    scoreText.setText("Flappy Dave");
     instText.setText("TOUCH TO FLAP\nbird WINGS");
     gameOverText.renderable = false;
     bird.body.allowGravity = false;
